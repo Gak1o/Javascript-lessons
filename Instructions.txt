@@ -1,0 +1,45 @@
+1. HTML CONTENT
+CSS STYLE 
+JS/TS LOGIC
+
+Node js gives us a server a development environment.
+variable is a Storage location 
+ let a = ;
+ created a variable called a and we have assigned the data 10;
+
+ Js ni a weakly typed language.
+ strong int a = 10;
+
+ int
+ string
+ Float
+ char
+ boolean
+ 
+
+ comments
+ this are statements in your code that are not read during compiling ama running of the code
+
+ function is a reusable block of code
+
+ calculator 
+
+ documentgetelement.id
+
+ int a 10 int b int b 20
+ int c a plus block
+ funtion calc(a b)
+
+ helloworrld(10,20);
+
+Control flow
+1. For
+2.If else
+3. Switch
+
+if age = 10
+if else age = 0 invalid age
+else = enter
+
+
+if else. switch, for, classs, inheritance, objects
